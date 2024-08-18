@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+}
+
+
+.title {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+
+#img-result {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+#user-information{
+    background-color: #343a40;   
+}
+
+#repo{
+    background-color: #343a40;   
+}
+
+#hero-desc{
+    color: rgb(127, 87, 151);
+}
+
